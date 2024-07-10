@@ -11,7 +11,8 @@ In the project directory, you can run:
 First time your install "npm install express"
 
 ### 'node server'
-Run the server: Use the following command to run your server 'node server.js'
+Run the server: Use the following command to run your server 
+### 'node server.js'
 Access the server: Once the server is running, you should see the following output in your terminal "Server running at http://localhost:3000"
 
 ### `npm start`
