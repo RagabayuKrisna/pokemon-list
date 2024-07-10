@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+.pokemon-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pokemon-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 8px;
+  text-align: center;
+  width: 150px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.pokemon-detail {
+  text-align: center;
+  padding: 16px;
+}
+
+.pokemon-detail img {
+  width: 150px;
+  height: 150px;
+}
+
+.my-pokemon-list {
+  text-align: center;
+  padding: 16px;
+}
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: blue;
+}
